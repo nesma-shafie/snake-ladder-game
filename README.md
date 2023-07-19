@@ -1,5 +1,5 @@
 # snake-ladder-game
-this is a mixture between the Snakes &amp; Ladders and Monopoly games.
+**this is a mixture between the Snakes &amp; Ladders and Monopoly games.**
 
 **There are two modes in the game: Design mode is wherethe user is able to build the playing grid and Play mode is where he plays the game itself.**
 
